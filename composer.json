@@ -1,0 +1,15 @@
+{
+    "name": "quest-2/app",
+    "description": "initiation au composeur",
+    "autoload": {
+        "psr-4": {
+            "Quest2\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "me"
+        }
+    ],
+    "require": {}
+}
